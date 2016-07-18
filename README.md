@@ -28,7 +28,7 @@
 * Lynda.com - [TypeScript Essential Training](https://www.lynda.com/Typescript-tutorials/TypeScript-Essential-Training/421807-2.html)
 * edx.org [Introduction to TypeScript by Mircrosoft](https://www.edx.org/course/introduction-typescript-microsoft-dev201x-1)
 
-## JavaScript libraries
+## 3. JavaScript libraries
 
 1. RxJS - provides observable for asynchronous, event-based program flows
 2. zone.js - provides execution contexts for asynchronous task, used for updating the view
@@ -38,8 +38,15 @@
 6. typescript - Transplier, translates TypeScript to JavaScript
 7. lite-server - A lightweight file-server, can be used during development
 8. concurently - For executing multiple processes in a parallel, platform-independent manner
+9. 
 
-### Package Control 
+### 3.1 Build tool
+For a larger scale project, most people like to use a build tool to help automated processes like transpiling, SAS, conversion , minify , and more: 
+* grunt
+* webpack
+* gulp
+
+### 3.2 Package Control 
 * npm
 * bower
 
