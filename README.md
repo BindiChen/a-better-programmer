@@ -50,3 +50,21 @@ For a larger scale project, most people like to use a build tool to help automat
 * npm
 * bower
 
+### 3.3 Testing libraries/framework
+Jasmine and Mocha are two most popular JavaScript testing frameworks. The APIs of Jasmine and Mocha are very similar. 
+* Jasmine
+* Mocha
+
+### 3.4 CSS frontend framework
+CSS frontend frameworks make web development process faster, easier and more standards compliant. CSS frontend frameworks are more like collection of ready to use standard Components that solve some kind of **common web design problem** which otherwise would require CSS, JS or HTML authoring from scratch.
+
+* Bootstrap
+* Foundation
+* Material UI
+
+### 3.5 JavaScript framework
+JavaScript frameworks exists because handling complexity in larger applications can be extremely hard - and often it's the same complexity each time you build a new application. So we create frameworks to give our applications a predictable structure and give us some of the **standard features** like **handling requests** to the server, or **maintaining data consistent** across different parts of your web page or web app. The most popular JS frameworks are: 
+
+* AngularJS 2
+* ReactJS
+* Amber
