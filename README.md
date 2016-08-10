@@ -50,6 +50,7 @@
 13. jade (pug)
 14. body-parser
 15. express
+16. Underscore - Underscore (and lodash) is a JavaScript library that provides a whole suite of utility functions without monkey patching the built-in JavaScript objects. Both libraries provide over 100 functional helpers and other specialized goodies; including functions like `map, filter, invoke, reduce, template, throttle, bind, extend, pick, clone` and so much more.
 
 ### 4.1 Build tool
 For a larger scale project, most people like to use a build tool to help automated processes like transpiling, SAS, conversion , minify , and more: 
@@ -82,5 +83,24 @@ JavaScript frameworks exists because handling complexity in larger applications 
 * Ember - is a js framework focusing on programmer productivity. Ember describes itself as “a framework for creating ambitious web applications” that doesn’t waste your time. Ember is also an MVC framework. It includes a templating and view engine that automatically updates when data changes. **When to use:** When you just want a framework that just works. Use Ember when you do not need flexibility. 
 
 
+## Chart and Data visualization
+#### Flotchart
+#### D3.js
+[D3.js](https://d3js.org/) is the defacto standard when it comes to any data manipulation and visualization. It is one of the most popular projects on GitHub and is used by hundreds of organizations. Plenty of graphing, charting and visualization libraries build on top of D3.
 
+#### Go.js
+#### Echart
+
+## 3D visualization and WebGL
+
+#### Three.js
+[Three.js](http://threejs.org/) provides a lightweight 3D library that allows rendering 3D to an HTML5 canvas, SVG, and WebGL. It is quite a straightforward library, and there are hundreds of beautiful examples in the three.js showcase.
+**When to use Three.js?**: Whenever you need a simple 3D visualization that can output to a Canvas.
+
+#### Babylon.js
+[Babylon.js](http://www.babylonjs.com/) is a 3d game engine based on WebGL and JavaScript. You can create incredibly high-quality games complete with physics, audio and particle systems among other things.
+**When to use Three.js?**: Whenever you are building a video game or a complex 3D scene of any sorts.
+
+
+# More hands-on with Web Development
 
