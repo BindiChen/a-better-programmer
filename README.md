@@ -66,16 +66,21 @@ Jasmine and Mocha are two most popular JavaScript testing frameworks. The APIs o
 * Jasmine
 * Mocha
 
-### 4.4 CSS frontend framework
+### 4.4 Frontend CSS framework
 CSS frontend frameworks make web development process faster, easier and more standards compliant. CSS frontend frameworks are more like collection of ready to use standard Components that solve some kind of **common web design problem** which otherwise would require CSS, JS or HTML authoring from scratch.
 
 * Bootstrap
 * Foundation
 * Material UI
 
-### 4.5 JavaScript framework
+### 4.5 Frontend JavaScript framework
 JavaScript frameworks exists because handling complexity in larger applications can be extremely hard - and often it's the same complexity each time you build a new application. So we create frameworks to give our applications a predictable structure and give us some of the **standard features** like **handling requests** to the server, or **maintaining data consistent** across different parts of your web page or web app. The most popular JS frameworks are: 
 
-* AngularJS 2
-* ReactJS
-* Amber
+* AngularJS 2 - is an MVC-type framework. It offers two-way data binding between models and views. This data binding allows for an automatic update on both sides whenever there is a data change. It enables you to build reusable View Components. It provides a services framework to allow easily backend-frontend server communication. **When to use:** When you are building a complex web front-end application and need a single modular framework to handle everything. 
+* React - is open-source and developed mostly by Facebook with contributions from other companies. React describes itself as a JavaScript library for building user interfaces. It is mostly the V in MVC. It focuses entirely on that piece of MVC and disregards the architecture of the rest of your application. **When to use:** When you want a powerful View layer but don’t need an elaborate framework for the rest of your application or when you want a View layer to go with your Angular, Backbone, or Ember application. 
+* Backbone.js - is a famously simple framework that fits into a single JavaScript file. **When to use:** looking for a simple structure for small web applications without bringing in a large framework like Angular or Ember.
+* Ember - is a js framework focusing on programmer productivity. Ember describes itself as “a framework for creating ambitious web applications” that doesn’t waste your time. Ember is also an MVC framework. It includes a templating and view engine that automatically updates when data changes. **When to use:** When you just want a framework that just works. Use Ember when you do not need flexibility. 
+
+
+
+
