@@ -16,7 +16,8 @@
 
 ### 3.2 JavaScript/ES6
 * Lynda.com - [Up and Running with ECMAScript 6](https://www.lynda.com/JavaScript-tutorials/Up-Running-ECMAScript-6/424003-2.html), by Eve Porcello
-* ES6 - http://es6-features.org
+* ES6 - [es6-features](http://es6-features.org)
+* ES6 online book - [Exploring JS ES6](http://exploringjs.com/es6/)
 
 ### 3.3 Node.js
 * Lynda.com - [node.js essential training](https://www.lynda.com/Node-js-tutorials/Node-js-Essential-Training/417077-2.html)
@@ -52,11 +53,12 @@
 15. express
 16. Underscore - Underscore (and lodash) is a JavaScript library that provides a whole suite of utility functions without monkey patching the built-in JavaScript objects. Both libraries provide over 100 functional helpers and other specialized goodies; including functions like `map, filter, invoke, reduce, template, throttle, bind, extend, pick, clone` and so much more.
 
-### 4.1 Build tool
+### 4.1 Build tool/system
 For a larger scale project, most people like to use a build tool to help automated processes like transpiling, SAS, conversion , minify , and more: 
 * grunt
 * webpack
 * gulp
+* NPM Scripts
 
 ### 4.2 Package Control 
 * npm
@@ -66,6 +68,8 @@ For a larger scale project, most people like to use a build tool to help automat
 Jasmine and Mocha are two most popular JavaScript testing frameworks. The APIs of Jasmine and Mocha are very similar. 
 * Jasmine
 * Mocha
+* QUnit
+* Chai
 
 ### 4.4 Frontend CSS framework
 CSS frontend frameworks make web development process faster, easier and more standards compliant. CSS frontend frameworks are more like collection of ready to use standard Components that solve some kind of **common web design problem** which otherwise would require CSS, JS or HTML authoring from scratch.
@@ -77,19 +81,24 @@ CSS frontend frameworks make web development process faster, easier and more sta
 ### 4.5 Frontend JavaScript framework
 JavaScript frameworks exists because handling complexity in larger applications can be extremely hard - and often it's the same complexity each time you build a new application. So we create frameworks to give our applications a predictable structure and give us some of the **standard features** like **handling requests** to the server, or **maintaining data consistent** across different parts of your web page or web app. The most popular JS frameworks are: 
 
-* AngularJS 2 - is an MVC-type framework. It offers two-way data binding between models and views. This data binding allows for an automatic update on both sides whenever there is a data change. It enables you to build reusable View Components. It provides a services framework to allow easily backend-frontend server communication. **When to use:** When you are building a complex web front-end application and need a single modular framework to handle everything. 
-* React - is open-source and developed mostly by Facebook with contributions from other companies. React describes itself as a JavaScript library for building user interfaces. It is mostly the V in MVC. It focuses entirely on that piece of MVC and disregards the architecture of the rest of your application. **When to use:** When you want a powerful View layer but don’t need an elaborate framework for the rest of your application or when you want a View layer to go with your Angular, Backbone, or Ember application. 
+* [AngularJS 2](https://angular.io/) - is an MVC-type framework. It offers two-way data binding between models and views. This data binding allows for an automatic update on both sides whenever there is a data change. It enables you to build reusable View Components. It provides a services framework to allow easily backend-frontend server communication. **When to use:** When you are building a complex web front-end application and need a single modular framework to handle everything. 
+* [React](https://facebook.github.io/react/) - is open-source and developed mostly by Facebook with contributions from other companies. React describes itself as a JavaScript library for building user interfaces. It is mostly the V in MVC. It focuses entirely on that piece of MVC and disregards the architecture of the rest of your application. **When to use:** When you want a powerful View layer but don’t need an elaborate framework for the rest of your application or when you want a View layer to go with your Angular, Backbone, or Ember application. 
 * Backbone.js - is a famously simple framework that fits into a single JavaScript file. **When to use:** looking for a simple structure for small web applications without bringing in a large framework like Angular or Ember.
 * Ember - is a js framework focusing on programmer productivity. Ember describes itself as “a framework for creating ambitious web applications” that doesn’t waste your time. Ember is also an MVC framework. It includes a templating and view engine that automatically updates when data changes. **When to use:** When you just want a framework that just works. Use Ember when you do not need flexibility. 
 
 
 ## Chart and Data visualization
-#### Flotchart
+#### Flot
+[Flot](http://www.flotcharts.org/) is a pure JavaScript plotting library for jQuery, with a focus on simple usage, attractive looks and interactive features.
+
 #### D3.js
 [D3.js](https://d3js.org/) is the defacto standard when it comes to any data manipulation and visualization. It is one of the most popular projects on GitHub and is used by hundreds of organizations. Plenty of graphing, charting and visualization libraries build on top of D3.
 
 #### Go.js
+[GoJS](https://gojs.net/latest/index.html) is a feature-rich JavaScript library for implementing custom interactive diagrams and complex visualizations across modern web browsers and platforms. GoJS makes constructing JavaScript diagrams of complex nodes, links, and groups easy with customizable templates and layouts.
+
 #### Echart
+[EChart](https://ecomfe.github.io/echarts/index-en.html) - a powerful, interactive charting and visualization library for browser.
 
 ## 3D visualization and WebGL
 
