@@ -113,3 +113,7 @@ JavaScript frameworks exists because handling complexity in larger applications 
 
 # More hands-on with Web Development
 
+## Article
+* https://jaxenter.com/
+* https://mobiforge.com/
+* https://davidwalsh.name/
