@@ -23,6 +23,7 @@
 * Lynda.com - [node.js essential training](https://www.lynda.com/Node-js-tutorials/Node-js-Essential-Training/417077-2.html)
 * Udemy - Learn and Understand NodeJS
 * Udemy - Learn Nodejs by building 12 projects
+* [Nodejs School](http://nodeschool.io/)
 
 ### 3.4 AngularJS 2
 * AngularJS 2 Official [Basic](https://angular.io/docs/ts/latest/guide/) and [Developer](https://angular.io/docs/ts/latest/guide/animations.html)
